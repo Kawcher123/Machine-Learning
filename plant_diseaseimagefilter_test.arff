@@ -1,0 +1,87 @@
+@relation 'plant_disease-weka.filters.unsupervised.instance.imagefilter.ColorLayoutFilter-D/home/kawser/Desktop/Summer 2019/Machine learning/rice_leaf_diseases(1)/plant_disease3-weka.filters.unsupervised.attribute.StringToNominal-R1-weka.filters.unsupervised.instance.Resample-S1-Z90.0-no-replacement-V'
+
+@attribute filename {bacterial01.jpg,bacterial02.jpg,bacterial03.jpg,bacterial04.jpg,bacterial05.jpg,bacterial06.jpg,bacterial07.jpg,bacterial08.jpg,bacterial09.jpg,bacterial10.jpg,bacterial11.jpg,bacterial12.jpg,bacterial13.jpg,bacterial14.jpg,bacterial15.jpg,bacterial16.jpg,bacterial17.jpg,bacterial18.jpg,bacterial19.jpg,bacterial20.jpg,bacterial21.jpg,bacterial22.jpg,bacterial23.jpg,bacterial24.jpg,bacterial25.jpg,bacterial26.jpg,bacterial27.jpg,bacterial28.jpg,bacterial29.jpg,bacterial30.jpg,bacterial31.jpg,bacterial32.jpg,bacterial33.jpg,bacterial34.jpg,bacterial35.jpg,bacterial36.jpg,bacterial37.jpg,bacterial38.jpg,bacterial39.jpg,bacterial40.jpg,bacterial41.jpg,bacterial42.jpg,bacterial43.jpg,bacterial44.jpg,bacterial45.jpg,bacterial46.jpg,bacterial47.jpg,bacterial48.jpg,bacterial49.jpg,bacterial50.jpg,bacterial51.jpg,bacterial52.jpg,bacterial53.jpg,bacterial54.jpg,bacterial55.jpg,bacterial56.jpg,bacterial57.jpg,bacterial58.jpg,bacterial59.jpg,bacterial60.jpg,bacterial61.jpg,bacterial62.jpg,bacterial63.jpg,bacterial64.jpg,bacterial65.jpg,bacterial66.jpg,bacterial67.jpg,bacterial68.jpg,bacterial69.jpg,bacterial70.jpg,bacterial71.jpg,bacterial72.jpg,bacterial73.jpg,bacterial74.jpg,bacterial75.jpg,bacterial76.jpg,bacterial77.jpg,bacterial78.jpg,bacterial79.jpg,bacterial80.jpg,bacterial081.jpg,bacterial082.jpg,bacterial083.jpg,bacterial084.jpg,bacterial085.jpg,bacterial086.jpg,bacterial087.jpg,bacterial088.jpg,bacterial089.jpg,bacterial090.jpg,bacterial091.jpg,bacterial092.jpg,bacterial093.jpg,bacterial094.jpg,bacterial095.jpg,bacterial096.jpg,bacterial097.jpg,bacterial098.jpg,bacterial099.jpg,bacterial100.jpg,bacterial101.jpg,bacterial102.jpg,bacterial103.jpg,bacterial104.jpg,bacterial105.jpg,bacterial106.jpg,bacterial107.jpg,bacterial108.jpg,bacterial109.jpg,bacterial110.jpg,bacterial111.jpg,bacterial112.jpg,bacterial113.jpg,bacterial114.jpg,bacterial115.jpg,bacterial116.jpg,bacterial117.jpg,bacterial118.jpg,bacterial119.jpg,bacterial120.jpg,bacterial121.jpg,bacterial122.jpg,bacterial123.jpg,bacterial124.jpg,bacterial125.jpg,bacterial126.jpg,bacterial127.jpg,bacterial128.jpg,bacterial129.jpg,bacterial130.jpg,bacterial131.jpg,bacterial132.jpg,bacterial133.jpg,bacterial134.jpg,bacterial135.jpg,bacterial136.jpg,bacterial137.jpg,bacterial138.jpg,bacterial139.jpg,bacterial140.jpg,bacterial141.jpg,bacterial142.jpg,bacterial143.jpg,bacterial144.jpg,bacterial145.jpg,bacterial146.jpg,bacterial147.jpg,bacterial148.jpg,bacterial149.jpg,bacterial150.jpg,bacterial151.jpg,bacterial152.jpg,bacterial153.jpg,bacterial154.jpg,bacterial155.jpg,bacterial156.jpg,bacterial157.jpg,bacterial158.jpg,bacterial159.jpg,bacterial160.jpg,brown01.jpg,brown02.jpg,brown03.jpg,brown04.jpg,brown05.jpg,brown06.jpg,brown07.jpg,brown08.jpg,brown09.jpg,brown10.jpg,brown11.jpg,brown12.jpg,brown13.jpg,brown14.jpg,brown15.jpg,brown16.jpg,brown17.jpg,brown18.jpg,brown19.jpg,brown20.jpg,brown21.jpg,brown22.jpg,brown23.jpg,brown24.jpg,brown25.jpg,brown26.jpg,brown27.jpg,brown28.jpg,brown29.jpg,brown30.jpg,brown31.jpg,brown32.jpg,brown33.jpg,brown34.jpg,brown35.jpg,brown36.jpg,brown37.jpg,brown38.jpg,brown39.jpg,brown40.jpg,brown41.jpg,brown42.jpg,brown43.jpg,brown44.jpg,brown45.jpg,brown46.jpg,brown47.jpg,brown48.jpg,brown49.jpg,brown50.jpg,brown51.jpg,brown52.jpg,brown53.jpg,brown54.jpg,brown55.jpg,brown56.jpg,brown57.jpg,brown58.jpg,brown59.jpg,brown60.jpg,brown61.jpg,brown62.jpg,brown63.jpg,brown64.jpg,brown65.jpg,brown66.jpg,brown67.jpg,brown68.jpg,brown69.jpg,brown70.jpg,brown71.jpg,brown72.jpg,brown73.jpg,brown74.jpg,brown75.jpg,brown76.jpg,brown77.jpg,brown78.jpg,brown79.jpg,brown80.jpg,brown081.jpg,brown082.jpg,brown083.jpg,brown084.jpg,brown085.jpg,brown086.jpg,brown087.jpg,brown088.jpg,brown089.jpg,brown090.jpg,brown091.jpg,brown092.jpg,brown093.jpg,brown094.jpg,brown095.jpg,brown096.jpg,brown097.jpg,brown098.jpg,brown099.jpg,brown100.jpg,brown101.jpg,brown102.jpg,brown103.jpg,brown104.jpg,brown105.jpg,brown106.jpg,brown107.jpg,brown108.jpg,brown109.jpg,brown110.jpg,brown111.jpg,brown112.jpg,brown113.jpg,brown114.jpg,brown115.jpg,brown116.jpg,brown117.jpg,brown118.jpg,brown119.jpg,brown120.jpg,brown121.jpg,brown122.jpg,brown123.jpg,brown124.jpg,brown125.jpg,brown126.jpg,brown127.jpg,brown128.jpg,brown129.jpg,brown130.jpg,brown131.jpg,brown132.jpg,brown133.jpg,brown134.jpg,brown135.jpg,brown136.jpg,brown137.jpg,brown138.jpg,brown139.jpg,brown140.jpg,brown141.jpg,brown142.jpg,brown143.jpg,brown144.jpg,brown145.jpg,brown146.jpg,brown147.jpg,brown148.jpg,brown149.jpg,brown150.jpg,brown151.jpg,brown152.jpg,brown153.jpg,brown154.jpg,brown155.jpg,brown156.jpg,brown157.jpg,brown158.jpg,brown159.jpg,brown160.jpg,leafsmut081.jpg,leafsmut082.jpg,leafsmut083.jpg,leafsmut084.jpg,leafsmut085.jpg,leafsmut086.jpg,leafsmut087.jpg,leafsmut088.jpg,leafsmut089.jpg,leafsmut090.jpg,leafsmut091.jpg,leafsmut092.jpg,leafsmut093.jpg,leafsmut094.jpg,leafsmut095.jpg,leafsmut096.jpg,leafsmut097.jpg,leafsmut098.jpg,leafsmut099.jpg,leafsmut100.jpg,leafsmut101.jpg,leafsmut102.jpg,leafsmut103.jpg,leafsmut104.jpg,leafsmut105.jpg,leafsmut106.jpg,leafsmut107.jpg,leafsmut108.jpg,leafsmut109.jpg,leafsmut110.jpg,leafsmut111.jpg,leafsmut112.jpg,leafsmut113.jpg,leafsmut114.jpg,leafsmut115.jpg,leafsmut116.jpg,leafsmut117.jpg,leafsmut118.jpg,leafsmut119.jpg,leafsmut120.jpg,leafsmut121.jpg,leafsmut122.jpg,leafsmut123.jpg,leafsmut124.jpg,leafsmut125.jpg,leafsmut126.jpg,leafsmut127.jpg,leafsmut128.jpg,leafsmut129.jpg,leafsmut130.jpg,leafsmut131.jpg,leafsmut132.jpg,leafsmut133.jpg,leafsmut134.jpg,leafsmut135.jpg,leafsmut136.jpg,leafsmut137.jpg,leafsmut138.jpg,leafsmut139.jpg,leafsmut140.jpg,leafsmut141.jpg,leafsmut142.jpg,leafsmut143.jpg,leafsmut144.jpg,leafsmut145.jpg,leafsmut146.jpg,leafsmut147.jpg,leafsmut148.jpg,leafsmut149.jpg,leafsmut150.jpg,leafsmut151.jpg,leafsmut152.jpg,leafsmut153.jpg,leafsmut154.jpg,leafsmut155.jpg,leafsmut156.jpg,leafsmut157.jpg,leafsmut158.jpg,leafsmut159.jpg,leafsmut160.jpg,leafsmut02.jpg,leafsmut03.jpg,leafsmut04.jpg,leafsmut05.jpg,leafsmut06.jpg,leafsmut07.jpg,leafsmut08.jpg,leafsmut09.jpg,leafsmut10.jpg,leafsmut11.jpg,leafsmut12.jpg,leafsmut13.jpg,leafsmut14.jpg,leafsmut15.jpg,leafsmut16.jpg,leafsmut17.jpg,leafsmut18.jpg,leafsmut19.jpg,leafsmut20.jpg,leafsmut21.jpg,leafsmut22.jpg,leafsmut23.jpg,leafsmut24.jpg,leafsmut25.jpg,leafsmut26.jpg,leafsmut27.jpg,leafsmut28.jpg,leafsmut29.jpg,leafsmut30.jpg,leafsmut31.jpg,leafsmut32.jpg,leafsmut33.jpg,leafsmut34.jpg,leafsmut35.jpg,leafsmut36.jpg,leafsmut37.jpg,leafsmut38.jpg,leafsmut39.jpg,leafsmut40.jpg,leafsmut41.jpg,leafsmut42.jpg,leafsmut43.jpg,leafsmut44.jpg,leafsmut45.jpg,leafsmut46.jpg,leafsmut47.jpg,leafsmut48.jpg,leafsmut49.jpg,leafsmut50.jpg,leafsmut51.jpg,leafsmut52.jpg,leafsmut53.jpg,leafsmut54.jpg,leafsmut55.jpg,leafsmut56.jpg,leafsmut57.jpg,leafsmut58.jpg,leafsmut59.jpg,leafsmut60.jpg,leafsmut61.jpg,leafsmut62.jpg,leafsmut63.jpg,leafsmut64.jpg,leafsmut65.jpg,leafsmut66.jpg,leafsmut67.jpg,leafsmut68.jpg,leafsmut69.jpg,leafsmut70.jpg,leafsmut71.jpg,leafsmut72.jpg,leafsmut73.jpg,leafsmut74.jpg,leafsmut75.jpg,leafsmut76.jpg,leafsmut77.jpg,leafsmut78.jpg,leafsmut79.jpg,leafsmut80.jpg}
+@attribute 'MPEG-7 Color Layout0' numeric
+@attribute 'MPEG-7 Color Layout1' numeric
+@attribute 'MPEG-7 Color Layout2' numeric
+@attribute 'MPEG-7 Color Layout3' numeric
+@attribute 'MPEG-7 Color Layout4' numeric
+@attribute 'MPEG-7 Color Layout5' numeric
+@attribute 'MPEG-7 Color Layout6' numeric
+@attribute 'MPEG-7 Color Layout7' numeric
+@attribute 'MPEG-7 Color Layout8' numeric
+@attribute 'MPEG-7 Color Layout9' numeric
+@attribute 'MPEG-7 Color Layout10' numeric
+@attribute 'MPEG-7 Color Layout11' numeric
+@attribute 'MPEG-7 Color Layout12' numeric
+@attribute 'MPEG-7 Color Layout13' numeric
+@attribute 'MPEG-7 Color Layout14' numeric
+@attribute 'MPEG-7 Color Layout15' numeric
+@attribute 'MPEG-7 Color Layout16' numeric
+@attribute 'MPEG-7 Color Layout17' numeric
+@attribute 'MPEG-7 Color Layout18' numeric
+@attribute 'MPEG-7 Color Layout19' numeric
+@attribute 'MPEG-7 Color Layout20' numeric
+@attribute 'MPEG-7 Color Layout21' numeric
+@attribute 'MPEG-7 Color Layout22' numeric
+@attribute 'MPEG-7 Color Layout23' numeric
+@attribute 'MPEG-7 Color Layout24' numeric
+@attribute 'MPEG-7 Color Layout25' numeric
+@attribute 'MPEG-7 Color Layout26' numeric
+@attribute 'MPEG-7 Color Layout27' numeric
+@attribute 'MPEG-7 Color Layout28' numeric
+@attribute 'MPEG-7 Color Layout29' numeric
+@attribute 'MPEG-7 Color Layout30' numeric
+@attribute 'MPEG-7 Color Layout31' numeric
+@attribute 'MPEG-7 Color Layout32' numeric
+@attribute class {BACTERIAL_LEAF_BLIGHT,BROWN_SPOT,LEAF_SMUT}
+
+@data
+brown140.jpg,50,14,21,28,15,16,15,15,14,11,16,17,16,16,16,15,15,15,15,19,12,12,14,23,27,17,16,34,16,16,16,16,16,BROWN_SPOT
+leafsmut135.jpg,42,8,22,22,10,14,14,16,11,21,17,15,14,15,16,15,16,15,14,16,16,7,14,24,20,10,17,26,18,18,17,15,17,LEAF_SMUT
+leafsmut57.jpg,52,14,15,28,13,16,16,14,17,16,11,20,15,16,16,16,16,15,18,15,16,17,16,14,25,14,16,37,15,16,15,15,15,LEAF_SMUT
+bacterial04.jpg,47,21,22,29,17,15,16,15,14,8,12,11,15,16,16,16,15,15,16,13,17,14,18,17,26,17,16,35,16,16,16,15,15,BACTERIAL_LEAF_BLIGHT
+bacterial132.jpg,52,13,21,28,16,15,16,16,16,7,12,16,16,16,16,15,15,15,15,16,17,13,14,19,28,15,15,37,15,15,15,16,15,BACTERIAL_LEAF_BLIGHT
+brown60.jpg,50,15,10,28,14,16,16,15,15,19,20,16,15,15,15,16,15,15,16,15,19,11,14,8,28,14,15,36,16,17,15,16,16,BROWN_SPOT
+leafsmut151.jpg,53,17,17,27,15,16,16,16,13,13,7,16,14,16,16,16,16,16,15,15,17,18,17,17,24,15,15,37,17,15,16,16,16,LEAF_SMUT
+brown146.jpg,35,15,13,22,9,16,16,13,16,12,14,14,17,14,15,15,14,16,16,16,13,5,20,14,11,15,16,37,15,15,20,15,15,BROWN_SPOT
+bacterial122.jpg,55,7,19,27,10,15,16,14,23,13,17,21,13,14,16,15,15,16,17,16,15,20,11,18,24,12,15,29,13,14,18,15,16,BACTERIAL_LEAF_BLIGHT
+brown107.jpg,48,18,7,18,12,15,15,17,14,21,12,17,15,17,15,15,17,16,16,14,20,2,20,7,16,13,16,40,15,15,16,16,15,BROWN_SPOT
+bacterial59.jpg,51,17,10,28,13,15,16,15,12,24,12,19,15,15,16,15,16,15,15,18,12,17,16,14,25,15,15,36,15,16,16,15,15,BACTERIAL_LEAF_BLIGHT
+bacterial69.jpg,52,13,10,28,15,15,16,15,16,24,12,16,16,16,16,15,16,15,16,16,14,13,14,12,28,16,15,37,15,16,15,15,15,BACTERIAL_LEAF_BLIGHT
+brown05.jpg,44,11,6,23,10,17,15,15,15,13,20,11,16,15,16,16,16,15,18,14,14,10,18,12,24,11,16,37,13,16,13,15,16,BROWN_SPOT
+brown115.jpg,56,17,4,18,15,15,15,16,14,18,13,16,16,16,15,16,15,16,15,16,16,6,18,1,22,15,15,27,17,12,16,16,15,BROWN_SPOT
+brown20.jpg,50,17,21,28,14,16,16,16,16,13,20,16,15,15,15,16,16,16,15,16,12,11,17,23,28,14,15,36,15,15,15,16,16,BROWN_SPOT
+brown084.jpg,52,16,10,26,12,16,15,16,13,20,16,18,15,15,16,15,16,16,16,16,18,12,13,12,27,12,19,38,16,16,15,16,15,BROWN_SPOT
+bacterial099.jpg,46,17,10,29,15,15,16,15,15,19,16,16,16,16,16,15,16,15,16,15,20,12,16,13,27,15,15,36,15,17,17,15,15,BACTERIAL_LEAF_BLIGHT
+leafsmut089.jpg,38,17,10,28,17,16,16,16,17,19,18,16,15,16,15,15,15,15,15,15,19,14,16,14,27,17,15,25,16,15,18,16,16,LEAF_SMUT
+leafsmut136.jpg,47,16,22,25,13,15,15,15,20,19,22,13,17,16,16,15,15,15,15,19,17,7,20,20,25,12,17,34,16,16,15,17,16,LEAF_SMUT
+leafsmut50.jpg,54,17,14,27,16,16,16,15,13,19,7,15,14,15,16,16,15,16,16,15,14,18,17,14,24,16,15,37,17,16,16,16,16,LEAF_SMUT
+brown56.jpg,34,10,11,16,14,14,15,15,13,20,13,15,15,16,15,15,15,15,16,16,16,0,21,20,17,17,17,39,15,13,18,16,15,BROWN_SPOT
+leafsmut137.jpg,42,15,20,12,16,15,16,16,16,18,14,15,15,15,15,15,15,16,16,15,17,4,15,11,17,14,16,31,18,16,19,17,16,LEAF_SMUT
+leafsmut160.jpg,54,15,17,28,16,18,16,15,16,12,7,15,13,15,17,16,15,15,17,17,16,19,15,18,24,16,16,35,15,15,16,16,16,LEAF_SMUT
+brown19.jpg,57,16,13,27,14,17,15,16,14,21,9,18,14,15,16,16,16,15,14,18,13,16,15,12,27,13,16,30,16,15,18,15,15,BROWN_SPOT
+leafsmut142.jpg,55,15,16,26,16,16,16,16,16,15,7,15,15,16,16,16,15,15,15,16,16,20,16,16,24,16,16,37,15,15,14,16,16,LEAF_SMUT
+brown154.jpg,51,13,7,23,19,14,16,17,15,12,17,15,16,16,16,15,16,15,16,16,15,3,11,3,25,19,16,26,15,14,18,16,15,BROWN_SPOT
+leafsmut17.jpg,52,17,16,28,13,16,15,17,15,15,11,20,15,16,16,15,15,16,13,16,15,17,15,17,25,14,16,37,16,15,15,15,15,LEAF_SMUT
+bacterial156.jpg,50,14,19,28,14,15,15,16,17,14,16,18,17,15,15,15,16,15,15,16,11,14,14,15,28,15,16,36,15,15,14,16,15,BACTERIAL_LEAF_BLIGHT
+bacterial29.jpg,52,18,21,28,15,15,15,16,15,7,12,16,16,16,16,16,15,16,15,15,17,13,17,19,28,16,15,37,16,15,15,15,15,BACTERIAL_LEAF_BLIGHT
+leafsmut155.jpg,54,16,15,28,13,16,16,15,15,17,8,20,15,16,16,16,15,15,16,17,15,19,17,15,25,14,16,36,15,16,14,16,16,LEAF_SMUT
+leafsmut35.jpg,31,24,26,24,25,17,15,14,19,17,16,15,12,15,16,15,17,14,12,12,15,9,20,22,21,23,16,28,15,14,17,18,12,LEAF_SMUT
+leafsmut11.jpg,55,18,19,27,15,18,17,15,13,8,10,16,13,15,17,16,15,14,17,16,19,21,16,18,23,15,16,36,16,15,15,16,16,LEAF_SMUT
+bacterial33.jpg,50,17,21,28,15,16,15,15,16,9,15,15,16,15,15,15,15,16,16,14,16,13,17,18,27,15,16,36,16,15,16,16,16,BACTERIAL_LEAF_BLIGHT
+bacterial34.jpg,51,19,19,27,10,15,16,16,15,13,13,21,14,15,16,16,15,15,17,14,14,12,17,17,27,11,15,40,16,16,12,16,16,BACTERIAL_LEAF_BLIGHT
+leafsmut62.jpg,53,15,12,28,19,17,17,17,17,22,10,9,14,16,16,16,16,14,13,12,12,20,16,14,24,17,16,36,16,15,16,16,16,LEAF_SMUT
+bacterial092.jpg,52,18,10,28,16,15,15,15,15,24,12,16,16,15,16,16,16,16,16,15,14,13,17,12,28,15,15,37,16,16,15,16,15,BACTERIAL_LEAF_BLIGHT
+leafsmut63.jpg,49,15,16,29,22,17,17,17,13,15,12,7,12,16,16,16,16,13,15,18,14,17,16,17,24,19,17,36,16,15,17,16,16,LEAF_SMUT
+bacterial38.jpg,58,19,15,26,15,16,15,16,11,16,7,18,15,15,16,16,15,16,15,19,15,28,17,16,20,15,16,31,16,16,16,16,16,BACTERIAL_LEAF_BLIGHT
+leafsmut70.jpg,38,11,7,29,17,15,15,16,13,17,26,14,16,15,15,15,15,16,16,19,24,10,14,11,27,17,16,27,14,16,18,15,14,LEAF_SMUT
+brown13.jpg,50,18,18,27,22,15,15,16,15,16,21,17,14,16,15,16,15,17,15,14,15,4,17,21,29,24,15,40,17,14,12,14,15,BROWN_SPOT
+bacterial125.jpg,53,11,16,28,17,15,15,16,18,16,10,14,15,16,15,15,16,16,15,18,14,15,13,15,25,16,15,37,15,15,15,15,15,BACTERIAL_LEAF_BLIGHT
+leafsmut145.jpg,55,17,17,25,14,15,14,15,13,12,10,19,15,15,16,16,15,16,16,15,18,22,18,17,22,14,16,38,16,15,15,16,16,LEAF_SMUT
+brown094.jpg,52,16,14,28,15,15,16,15,15,19,12,16,16,16,16,15,16,15,16,15,15,12,17,13,28,15,15,37,15,16,15,16,16,BROWN_SPOT
+brown136.jpg,53,17,20,26,14,17,15,15,15,8,12,16,14,16,17,15,15,16,17,14,18,16,16,19,25,15,16,36,16,16,16,15,16,BROWN_SPOT
+brown77.jpg,52,15,10,26,19,16,16,16,18,20,16,13,15,16,16,16,16,15,16,15,18,12,18,12,27,20,19,38,15,16,15,15,15,BROWN_SPOT
+bacterial120.jpg,51,15,16,27,13,17,13,15,17,15,9,22,13,15,16,16,15,17,16,14,16,20,15,16,24,14,16,37,16,16,16,16,16,BACTERIAL_LEAF_BLIGHT
+brown17.jpg,46,22,15,29,25,14,16,15,16,12,20,13,13,17,16,16,15,16,12,15,14,9,18,14,26,24,15,35,16,15,15,14,15,BROWN_SPOT
+bacterial48.jpg,52,13,10,28,16,15,15,16,20,24,10,13,15,15,16,15,16,16,15,12,13,16,14,13,26,16,17,37,15,15,15,16,16,BACTERIAL_LEAF_BLIGHT
